@@ -1,0 +1,8 @@
+numpy
+pandas
+streamlit
+pandasai
+langchain-groq
+groq
+chardet
+psycopg2-binary
